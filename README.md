@@ -12,6 +12,8 @@
 3. For the third part of the homework, please refer to `HW2-Report.pdf` and codes in `Part2`
 
 **Warning**: Please be careful when running codes in `Part2`, it may take you more than 1 day to run the model.
+**Info**: The link of data in Part2, since its too big to upload to github.
+https://drive.google.com/drive/folders/1N63vsfpsc2xoebGKYekKMwmOVj94IPY-?usp=share_link
 
 
 ---
